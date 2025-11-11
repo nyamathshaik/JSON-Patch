@@ -1,11 +1,11 @@
-# @nyamathshaik/fast-json-patch
+# @nyamathhh/fast-json-patch
 
 ⚠️ **Temporary Fork** - This is a fork of [fast-json-patch](https://github.com/Starcounter-Jack/JSON-Patch) with Date object support while [PR #330](https://github.com/Starcounter-Jack/JSON-Patch/pull/330) is pending.
 
 ## Installation
 
 ```bash
-npm install @nyamathshaik/fast-json-patch
+npm install @nyamathhh/fast-json-patch
 ```
 
 ## What's Different
@@ -18,7 +18,7 @@ Native Date object support:
 ## Usage
 
 ```javascript
-const { compare } = require('@nyamathshaik/fast-json-patch');
+const { compare } = require('@nyamathhh/fast-json-patch');
 
 const obj1 = { time: new Date('2025-11-11T10:00:00Z') };
 const obj2 = { time: new Date('2025-11-11T11:00:00Z') };
@@ -32,7 +32,7 @@ const patches = compare(obj1, obj2);
 Once PR #330 is merged, switch back:
 
 ```bash
-npm uninstall @nyamathshaik/fast-json-patch
+npm uninstall @nyamathhh/fast-json-patch
 npm install fast-json-patch@^3.2.0
 ```
 
