@@ -1,6 +1,6 @@
 {
     "name": "@uipath/fast-json-patch",
-    "version": "3.1.2",
+    "version": "3.1.3",
     "description": "Fast implementation of JSON-Patch (RFC-6902) with duplex (observe changes) capabilities - Fork with Date object support",
     "homepage": "https://github.com/UiPath/JSON-Patch",
     "keywords": [
@@ -14,7 +14,7 @@
         "url": "git://github.com/UiPath/JSON-Patch.git"
     },
     "publishConfig": {
-        "registry": "https://uipath.pkgs.visualstudio.com/Public.Feeds/_packaging/UiPath-Internal/npm/registry/"
+        "registry": "https://npm.pkg.github.com/"
     },
     "bugs": {
         "url": "https://github.com/Starcounter-Jack/JSON-Patch/issues"
