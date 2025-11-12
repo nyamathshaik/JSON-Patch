@@ -1,8 +1,8 @@
 {
-    "name": "@nyamathhh/fast-json-patch",
+    "name": "@uipath/fast-json-patch",
     "version": "3.1.2",
     "description": "Fast implementation of JSON-Patch (RFC-6902) with duplex (observe changes) capabilities - Fork with Date object support",
-    "homepage": "https://github.com/nyamathshaik/JSON-Patch",
+    "homepage": "https://github.com/UiPath/JSON-Patch",
     "keywords": [
         "json",
         "patch",
@@ -11,7 +11,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/nyamathshaik/JSON-Patch.git"
+        "url": "git://github.com/UiPath/JSON-Patch.git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
     },
     "bugs": {
         "url": "https://github.com/Starcounter-Jack/JSON-Patch/issues"
