@@ -14,7 +14,7 @@
         "url": "git://github.com/UiPath/JSON-Patch.git"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "registry": "https://uipath.pkgs.visualstudio.com/Public.Feeds/_packaging/UiPath-Internal/npm/registry/"
     },
     "bugs": {
         "url": "https://github.com/Starcounter-Jack/JSON-Patch/issues"
