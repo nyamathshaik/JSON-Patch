@@ -17,7 +17,7 @@
         "registry": "https://npm.pkg.github.com/"
     },
     "bugs": {
-        "url": "https://github.com/Starcounter-Jack/JSON-Patch/issues"
+        "url": "https://github.com/UiPath/JSON-Patch/issues"
     },
     "author": {
         "name": "Joachim Wester",
